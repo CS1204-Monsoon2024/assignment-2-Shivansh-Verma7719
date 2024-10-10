@@ -12,7 +12,7 @@ You may define any other helper functions you need. The hash function you need t
 
 _Note that the `main.cpp` provided to you in the repository is not the one which will be used to grade, this is just for your reference._
 
-(Tip: Do not forget to create a constructor for your class according to how the object is instantiated in the main.cpp)
+(Tip: Do not forget to create a constructor for your class according to how the object is instantiated in the main.cpp)
 
 Assume all numbers entered into the table are non-negative numbers. The table should resize to **at least** twice of the previous size in case the threshold is crossed. The new size as mentioned should be a **prime number** as well.
 
@@ -37,5 +37,5 @@ An example run could be:
 - 1 - 4 -
 Element not found
 Duplicate key insertion is not allowed
-2 1 - 4 - 
+2 1 - 4 - 
 ```
